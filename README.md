@@ -1,3 +1,7 @@
 # git-playground-for-absolute-noobs
-Jut noobin around
-Kai
+Just noobin around
+
+Kai is noob number one
+
+
+Mori the 3rd noob
