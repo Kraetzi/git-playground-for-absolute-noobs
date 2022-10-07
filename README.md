@@ -17,7 +17,7 @@ I am still puushing
 > koookoooo
 Regine
 
-I finally achieved it but I don't know how I did. EMre The Cluless
+I finally achieved it but I don't know how I did. Emre The Clueless
 
 
->>>>>>> refs/remotes/origin/main
+
