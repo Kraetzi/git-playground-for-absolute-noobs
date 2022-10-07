@@ -2,7 +2,7 @@
 <<<<<<< HEAD
 Jut noobin around
 Emre The Clueless
-=======
+
 <<<<<<< HEAD
 Just noobin around
 
